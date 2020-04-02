@@ -20,3 +20,12 @@ https://github.com/pauldub/janet-http-client [] A libcurl based HTTP client for 
 https://github.com/scotthaleen/jhttp [] Sample Janet module that provides a simple libcurl wrapper
 https://github.com/sepisoad/jtbox [] Janet wrapper around termbox
 https://github.com/sepisoad/jurl [] janet wrapper around libcurl
+https://github.com/janet-lang/janet [] A dynamic language and bytecode vm
+https://github.com/andrewchambers/poolparty [] A synchronous, vm pooling http server for janet.
+https://github.com/andrewchambers/janet-logfmt [] A logfmt log library for janet.
+https://github.com/andrewchambers/janetsh [] A powerful new shell that uses the janet programming language for both the implementation and repl.
+https://github.com/emersion/mrsh [] A minimal POSIX shell https://mrsh.sh/
+https://github.com/andrewchambers/janet-redis [] Janet redis bindings based on hiredis
+https://github.com/PaulBatchelor/weewiki [] A wee little wiki engine, with scripting capabilities. Read-only Fossil export.
+https://github.com/andrewchambers/janet-sh [] A mini library for janet, inspired by janetsh
+https://github.com/janet-lang/juv [] Janet bindings to libuv

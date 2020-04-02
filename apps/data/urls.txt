@@ -5,3 +5,5 @@ https://github.com/PaulBatchelor/monolith [] An interactive computer music syste
 https://github.com/runejuhl/toggle-leds [] A simple program to toggle LEDs written in Janet
 https://github.com/sepisoad/super-janet-typist [] a short typing game made with janet lisp
 https://github.com/staab/budgetless [] A simple, budgetless personal finance app
+https://github.com/andrewchambers/hermes [] Hermes software environment manager
+https://github.com/ahungry/janet-code [] Tinkering with Janet language
