@@ -1,0 +1,7 @@
+https://github.com/good-place/mansion [] Place for tahani
+https://github.com/jordipbou/liveco [] Musical Live Coding environment
+https://github.com/joy-framework/example-todos [] A quick example app that shows how to get started with joy
+https://github.com/PaulBatchelor/monolith [] An interactive computer music system. Read-only mirror. https://paulbatchelor.github.io/proj/…
+https://github.com/runejuhl/toggle-leds [] A simple program to toggle LEDs written in Janet
+https://github.com/sepisoad/super-janet-typist [] a short typing game made with janet lisp
+https://github.com/staab/budgetless [] A simple, budgetless personal finance app

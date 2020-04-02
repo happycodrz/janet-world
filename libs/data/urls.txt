@@ -1,0 +1,19 @@
+https://github.com/andrewchambers/janet-base16 [] Base 16 encoding/decoding of buffers.
+https://github.com/andrewchambers/janet-big [] A simple big integer library for janet
+https://github.com/andrewchambers/janet-pq [] Bindings to libpq.
+https://github.com/andrewchambers/janet-process [] A janet module for dealing with processes.
+https://github.com/good-place/tahani [] Janet wrapper of the LevelDB C API
+https://github.com/joy-framework/bundler [] A very naive css/js bundler for joy
+https://github.com/joy-framework/cipher [] Password hashing and encryption library for the janet programming language
+https://github.com/joy-framework/codec [] encode/decode library for janet
+https://github.com/joy-framework/db [] A humble database library for janet
+https://github.com/joy-framework/halo [] HTTP server for Janet
+https://github.com/joy-framework/http [] A janet http client library
+https://github.com/joy-framework/joy [] A janet web framework https://joyframework.com
+https://github.com/joy-framework/moondown [] A janet markdown parsing library based on sundown
+https://github.com/joy-framework/tester [] A testing library for janet
+https://github.com/joy-framework/uuid [] Generate uuids with janet
+https://github.com/pauldub/janet-http-client [] A libcurl based HTTP client for janete.
+https://github.com/scotthaleen/jhttp [] Sample Janet module that provides a simple libcurl wrapper
+https://github.com/sepisoad/jtbox [] Janet wrapper around termbox
+https://github.com/sepisoad/jurl [] janet wrapper around libcurl
