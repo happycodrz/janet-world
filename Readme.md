@@ -4,7 +4,7 @@
 ### Links:
 
 - https://janet-lang.org/
-- https://github.com/joy-framework
+- https://joyframework.com/ / https://github.com/joy-framework
 
 
 ### Categories:
