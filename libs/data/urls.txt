@@ -15,10 +15,14 @@ https://github.com/andrewchambers/janet-xcore [] Proposed and experimental addit
 https://github.com/andrewchambers/janetsh [] A powerful new shell that uses the janet programming language for both the implementation and repl.
 https://github.com/andrewchambers/poolparty [] A synchronous, vm pooling http server for janet.
 https://github.com/bakpakin/mendoza [] A Static Site Generator https://bakpakin.github.io/mendoza/
+https://github.com/bakpakin/x43bot [] A simple IRC bot I made for my own amusement.
+https://github.com/crocket/janet-utf8 [] janet-utf8
 https://github.com/emersion/mrsh [] A minimal POSIX shell https://mrsh.sh/
 https://github.com/good-place/chidi [] Framework for real-time applications and APIs written in Janet with love
+https://github.com/good-place/shawn [] Reactive streams for Janet programming language.
 https://github.com/good-place/tahani [] Janet wrapper of the LevelDB C API
 https://github.com/good-place/trolley [] Simple general router for Janet programming language
+https://github.com/hellerve/kanon [] A rule engine for Janet
 https://github.com/janet-lang/circlet [] HTTP server library for janet
 https://github.com/janet-lang/janet [] A dynamic language and bytecode vm
 https://github.com/janet-lang/jhydro [] Crypto for Janet https://janet-lang.github.io/jhydro/
