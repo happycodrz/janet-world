@@ -9,6 +9,7 @@
 
 ### Articles
 - https://bakpakin.com/writing/how-janets-peg-works.html
+- https://acha.ninja/blog/json-in-janet-shell/
 
 
 ### Categories:
