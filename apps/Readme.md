@@ -53,8 +53,8 @@
 - [joy-framework/example-todos](https://github.com/joy-framework/example-todos) - A quick example app that shows how to get started with joy <br/> (3 stars / 2020-01-29 / 8 commits )
 - [runejuhl/toggle-leds](https://github.com/runejuhl/toggle-leds) - A simple program to toggle LEDs written in Janet <br/> (1 stars / 2020-02-05 / 3 commits )
 - [good-place/mansion](https://github.com/good-place/mansion) - Place for tahani <br/> (1 stars / 2020-03-04 / 23 commits )
-- [jordipbou/liveco](https://github.com/jordipbou/liveco) - Musical Live Coding environment <br/> (0 stars / 2019-11-20 / 20 commits )
 - [staab/budgetless](https://github.com/staab/budgetless) - A simple, budgetless personal finance app <br/> (0 stars / 2020-03-25 / 31 commits )
+- [jordipbou/liveco](https://github.com/jordipbou/liveco) - Musical Live Coding environment <br/> (0 stars / 2019-11-20 / 20 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
